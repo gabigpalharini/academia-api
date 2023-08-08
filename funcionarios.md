@@ -1,5 +1,5 @@
 ## Cadastro funcionário 
-
+Este campo contém imputs para o usuário (funcionário) entrar no site 
 - Nome
 - Senha
 
