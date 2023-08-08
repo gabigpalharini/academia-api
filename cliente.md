@@ -1,7 +1,7 @@
 ## Cadastro cliente 
 Este campo contém imputs para o usuário (cliente) fazer o login no site 
 
-- nome
+- Nome
 - E-mail
 - CPF
 - Endereço
