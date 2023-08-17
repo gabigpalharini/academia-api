@@ -15,7 +15,7 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 
 1. Clone este repositório para o seu ambiente de desenvolvimento local utilizando o comando:
 ```
- git clone https://github.com/gabigpalharini/exercicios-api.git
+ git clone https://github.com/gabigpalharini/academia-api.git
  ```
 2. Acesse o diretório do projeto:
 ```
