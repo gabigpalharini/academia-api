@@ -20,7 +20,7 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
  ```
 2. Acesse o diretório do projeto:
 ```
-cd exercicios-api-json-php-laravel
+cd academia-api-json-php-laravel
 ```
 3. Inicializando o Repositorio
 ```
