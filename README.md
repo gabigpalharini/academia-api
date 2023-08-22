@@ -33,6 +33,11 @@ copy .env.example .env
 ```
 code .
 ```
+6. Acessar o usuário e email
+```
+git config --global user.email "gabigplharini@gmail.com"
+git config --global user.name "gabigpalharini"
+```
 ## insomnia
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=academia-api&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fcestari15%2Facademia-api%2Fmain%2Finsomnia.json%3Ftoken%3DGHSAT0AAAAAACGBYDRKBG3MCQSZKXPCDWNKZGSEWTQ)
 
