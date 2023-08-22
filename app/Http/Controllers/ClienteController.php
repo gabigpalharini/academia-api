@@ -23,4 +23,8 @@ class ClienteController extends Controller
          "success"=> $Usuario,
       ],200);
      }
-}
+
+   public function pesquisarPorId($id){
+         return ClienteModel::find($id);
+   }
+    }
